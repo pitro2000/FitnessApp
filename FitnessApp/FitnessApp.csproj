@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8C7FB91B-9623-49D7-8BF8-522BE6E512F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FitnessApp</RootNamespace>
+    <AssemblyName>FitnessApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dumbbell.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advanced_Plan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advanced_Plan.Designer.cs">
+      <DependentUpon>Advanced_Plan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biceps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biceps.Designer.cs">
+      <DependentUpon>Biceps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data_Container.cs" />
+    <Compile Include="Food.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Food.Designer.cs">
+      <DependentUpon>Food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Food_mass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Food_mass.Designer.cs">
+      <DependentUpon>Food_mass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arnoldki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arnoldki.Designer.cs">
+      <DependentUpon>Arnoldki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Podciaganie_nachwytem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Podciaganie_nachwytem.Designer.cs">
+      <DependentUpon>Podciaganie_nachwytem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prostowanie_nog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prostowanie_nog.Designer.cs">
+      <DependentUpon>Prostowanie_nog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rozpietki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rozpietki.Designer.cs">
+      <DependentUpon>Rozpietki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pompki_porecze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pompki_porecze.Designer.cs">
+      <DependentUpon>Pompki_porecze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unoszenie_nog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unoszenie_nog.Designer.cs">
+      <DependentUpon>Unoszenie_nog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Broda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Broda.Designer.cs">
+      <DependentUpon>Broda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wykroki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wykroki.Designer.cs">
+      <DependentUpon>Wykroki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wioslowanie_hantle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wioslowanie_hantle.Designer.cs">
+      <DependentUpon>Wioslowanie_hantle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wyciskanie_dodatni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wyciskanie_dodatni.Designer.cs">
+      <DependentUpon>Wyciskanie_dodatni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sciaganie_drazka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sciaganie_drazka.Designer.cs">
+      <DependentUpon>Sciaganie_drazka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wyciskanie_poziom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wyciskanie_poziom.Designer.cs">
+      <DependentUpon>Wyciskanie_poziom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wioslowanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wioslowanie.Designer.cs">
+      <DependentUpon>Wioslowanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wspiecia_lydek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wspiecia_lydek.Designer.cs">
+      <DependentUpon>Wspiecia_lydek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Przysiad_sztanga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Przysiad_sztanga.Designer.cs">
+      <DependentUpon>Przysiad_sztanga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Przysiad_suwnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Przysiad_suwnica.Designer.cs">
+      <DependentUpon>Przysiad_suwnica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Triceps_linki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Triceps_linki.Designer.cs">
+      <DependentUpon>Triceps_linki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wyciskanie_na_modlitewniku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wyciskanie_na_modlitewniku.Designer.cs">
+      <DependentUpon>Wyciskanie_na_modlitewniku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wyciskanie_sztangi_nad_glowe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wyciskanie_sztangi_nad_glowe.Designer.cs">
+      <DependentUpon>Wyciskanie_sztangi_nad_glowe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Martwy_Ciag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Martwy_Ciag.Designer.cs">
+      <DependentUpon>Martwy_Ciag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plan_for_beginner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Plan_for_beginner.Designer.cs">
+      <DependentUpon>Plan_for_beginner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select_FBW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_FBW.Designer.cs">
+      <DependentUpon>Select_FBW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule_mass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule_mass.Designer.cs">
+      <DependentUpon>Schedule_mass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule.Designer.cs">
+      <DependentUpon>Schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mass.Designer.cs">
+      <DependentUpon>Mass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fat_Reduction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fat_Reduction.Designer.cs">
+      <DependentUpon>Fat_Reduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Advanced_Plan.resx">
+      <DependentUpon>Advanced_Plan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biceps.resx">
+      <DependentUpon>Biceps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food.resx">
+      <DependentUpon>Food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food_mass.resx">
+      <DependentUpon>Food_mass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arnoldki.resx">
+      <DependentUpon>Arnoldki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Podciaganie_nachwytem.resx">
+      <DependentUpon>Podciaganie_nachwytem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prostowanie_nog.resx">
+      <DependentUpon>Prostowanie_nog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rozpietki.resx">
+      <DependentUpon>Rozpietki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pompki_porecze.resx">
+      <DependentUpon>Pompki_porecze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unoszenie_nog.resx">
+      <DependentUpon>Unoszenie_nog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Broda.resx">
+      <DependentUpon>Broda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wykroki.resx">
+      <DependentUpon>Wykroki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wioslowanie_hantle.resx">
+      <DependentUpon>Wioslowanie_hantle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wyciskanie_dodatni.resx">
+      <DependentUpon>Wyciskanie_dodatni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sciaganie_drazka.resx">
+      <DependentUpon>Sciaganie_drazka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wyciskanie_poziom.resx">
+      <DependentUpon>Wyciskanie_poziom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wioslowanie.resx">
+      <DependentUpon>Wioslowanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wspiecia_lydek.resx">
+      <DependentUpon>Wspiecia_lydek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Przysiad_sztanga.resx">
+      <DependentUpon>Przysiad_sztanga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Przysiad_suwnica.resx">
+      <DependentUpon>Przysiad_suwnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Triceps_linki.resx">
+      <DependentUpon>Triceps_linki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wyciskanie_na_modlitewniku.resx">
+      <DependentUpon>Wyciskanie_na_modlitewniku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wyciskanie_sztangi_nad_glowe.resx">
+      <DependentUpon>Wyciskanie_sztangi_nad_glowe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Martwy_Ciag.resx">
+      <DependentUpon>Martwy_Ciag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan_for_beginner.resx">
+      <DependentUpon>Plan_for_beginner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_FBW.resx">
+      <DependentUpon>Select_FBW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule_mass.resx">
+      <DependentUpon>Schedule_mass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule.resx">
+      <DependentUpon>Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mass.resx">
+      <DependentUpon>Mass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fat_Reduction.resx">
+      <DependentUpon>Fat_Reduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dumbbell.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,67 @@
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csprojAssemblyReference.cache
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.MainForm.resources
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.HomePage.resources
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Fat_Reduction.resources
+D:\wszystko\studia_EiT\C# - kurs\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Mass.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Mass.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Fat_Reduction.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.HomePage.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.MainForm.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\Asus\Desktop\apkafi\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Mass.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Fat_Reduction.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.HomePage.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.MainForm.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Schedule.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Schedule_mass.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Food.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Food_mass.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Plan_for_beginner.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Select_FBW.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Advanced_Plan.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Martwy_Ciag.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Przysiad_suwnica.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Triceps_linki.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wyciskanie_na_modlitewniku.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wyciskanie_sztangi_nad_glowe.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Prostowanie_Nog.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Sciaganie_drazka.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wyciskanie_poziom.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wioslowanie.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wspiecia_lydek.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Przysiad_sztanga.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Arnoldki.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Podciaganie_nachwytem.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wyciskanie_dodatni.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Rozpietki.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wykroki.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Wioslowanie_hantle.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Biceps.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Pompki_porecze.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Unoszenie_nog.resources
+C:\Users\Asus\Desktop\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Broda.resources
